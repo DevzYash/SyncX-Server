@@ -1,0 +1,10 @@
+flask
+flask-socketio
+pyautogui
+psutil
+opencv-python
+numpy
+pillow
+pyperclip
+plyer
+nuitka
